@@ -90,8 +90,8 @@ public class ex2 : MonoBehaviour
 ```
 
 ## Output:
-![o](1.png)
-![o](2.png)
+![o](11.png)
+![o](22.png)
 
 ## Result:
 Thus, The 3D application for Roll the Ball objects in unity is developed successfully.
